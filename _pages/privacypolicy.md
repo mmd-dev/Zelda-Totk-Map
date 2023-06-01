@@ -16,13 +16,13 @@ Please read this privacy policy carefully. It applies to all interactions you ha
 
 <br>
 
-## 1.0 Information We Collect
+## Information We Collect
 **Tears Helper** collects anonymous statistics such as crash reports and feature usage. These are used to track app health and plan future features.
 
-## 2.0 Analytics
+## Analytics
 **Tears Helper** collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
 
-## 3.0 Information usage
+## Information usage
 
 1. We use the information we collect to operate and improve our website, apps, and customer support.
 2. We do not share personal information with outside parties except to the extent necessary to accomplish **Tears Helper**’s functionality.
@@ -34,5 +34,5 @@ Please read this privacy policy carefully. It applies to all interactions you ha
 4. In the future, we may sell to, buy, merge with, or partner with other businesses.
 5. In such transactions, user information may be among the transferred assets.
 
-## 4.0 Contacting Us
+## Contacting Us
 If you have questions regarding this privacy policy, you may e-mail me at [kou.ueno1986@gmail.com](mailto:kou.ueno1986@gmail.com).
