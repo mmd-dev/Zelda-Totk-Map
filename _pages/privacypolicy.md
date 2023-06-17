@@ -8,24 +8,24 @@ include_in_header: true
 Jun 1 2023
 
 # Privacy Policy
-This document is about the privacy policy of the **Tears Helper** which developed and operated by MMD-DEV Co., Ltd. located in Japan.
+This document is about the privacy policy of the **Asoboo** which developed and operated by MMD-DEV Co., Ltd. located in Japan.
 
-Privacy and data protection are important to the **Tears Helper**.
+Privacy and data protection are important to the **Asoboo**.
 We’ve done our best to cut through the legal jargon and explain in simple terms what information we collect about you, what we use it for, and the few situations in which we share it with others.
-Please read this privacy policy carefully. It applies to all interactions you have with **Tears Helper**.
+Please read this privacy policy carefully. It applies to all interactions you have with **Asoboo**.
 
 <br>
 
 ## Information We Collect
-**Tears Helper** collects anonymous statistics such as crash reports and feature usage. These are used to track app health and plan future features.
+**Asoboo** collects anonymous statistics such as crash reports and feature usage. These are used to track app health and plan future features.
 
 ## Analytics
-**Tears Helper** collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
+**Asoboo** collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
 
 ## Information usage
 
 1. We use the information we collect to operate and improve our website, apps, and customer support.
-2. We do not share personal information with outside parties except to the extent necessary to accomplish **Tears Helper**’s functionality.
+2. We do not share personal information with outside parties except to the extent necessary to accomplish **Asoboo**’s functionality.
 3. We may share anonymous, aggregate statistics with outside parties.<ul>
   - We may disclose your information in response to subpoenas, court orders, or other legal requirements;
   - to exercise our legal rights or defend against legal claims;</li>

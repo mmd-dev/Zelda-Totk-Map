@@ -11,7 +11,7 @@ What's New
 # `Initial Release`
 
 ## V0.3
-- Update App name to 'Tears Helper'
+- Update App name to 'Asoboo'
 
 ## V0.2
 - Change to Tab controller
